@@ -1,7 +1,7 @@
 ## Criando uma página
-    ```console
-    ionic g page pages/(nome da página)
-    ```
+```console
+ionic g page pages/(nome da página)
+```
 ## CSS global
 Utilizando o global.scss é possível fazer uma mudança estética em qualquer parte do código
 ## Chamando páginas em outras páginas
